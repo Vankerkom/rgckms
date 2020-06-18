@@ -1,0 +1,9 @@
+[package]
+name = "rgckms"
+version = "0.1.0"
+authors = ["Daan Vankerkom <daan@vankerkom.be>"]
+
+[dependencies]
+tokio = "0.1"
+bytes = "0.4.11"
+byteorder = "1.2.7"
